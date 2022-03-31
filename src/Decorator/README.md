@@ -22,8 +22,7 @@
 
 <center>装饰模式结构图（Decorator）</center>
 
-![装饰模式.drawio](%E8%A3%85%E9%A5%B0%E6%A8%A1%E5%BC%8F.drawio.png)
-
+![image](https://user-images.githubusercontent.com/80476712/160964043-5c2a33cc-b15f-420c-a4eb-573aaf8619e4.png)
 
 
 #### 1. 结构说明：
@@ -41,11 +40,7 @@
 
 #### 2.具体类的结构：
 
-见文件夹：
-
-```xml-dtd
-E:\Java_file\java设计思想\设计模式
-```
+* 见代码
 
 #### 3. 执行顺序
 
