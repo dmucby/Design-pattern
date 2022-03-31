@@ -20,7 +20,8 @@
 ### 常用模板
 
 
-<center>装饰模式结构图（Decorator）</center>
+**<center>装饰模式结构图（Decorator）</center>**
+
 
 ![image](https://user-images.githubusercontent.com/80476712/160964043-5c2a33cc-b15f-420c-a4eb-573aaf8619e4.png)
 
