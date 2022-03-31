@@ -20,7 +20,7 @@
 
 ### 结构图：
 
-** <center>单例模式（Singleton）结构图</center> **
+**<center>单例模式（Singleton）结构图</center>**
 
 ![image](https://user-images.githubusercontent.com/80476712/160964589-acb55b5a-5b56-4c75-a854-4053bd62ea5f.png)
 
