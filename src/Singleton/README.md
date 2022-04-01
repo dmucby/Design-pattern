@@ -54,18 +54,18 @@
 > 代码实现：
 
 ```java
- if (instance == null) {
-    lock.lock();
-    try {
-        if (instance == null) {
-            instance = new singleton();
-        } else {
-            System.out.println("只能创建一个产品");
+if (instance == null) {
+            # 对类上锁 减小锁的范围
+            synchronized (singleton.class) {
+                if (instance == null) {
+                    instance = new singleton();
+                } else {
+                    System.out.println("只能创建一个产品");
+                }
+            }
         }
-    } finally {
-        lock.unlock();
+        return instance;
     }
-}
 ```
 
 
