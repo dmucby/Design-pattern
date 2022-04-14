@@ -28,14 +28,14 @@
 
 ### 1. 结构说明：
 
-> * `Component`类：定义对象接口
->   * 给对象动态的添加功能。
->
-> * `Decorator`：抽象功能接口，定义添加规范
->   * 扩展`Component`类的功能，`Component`不知道它的存在。
-> * `ConreteComponent`：一个具体的对象
->   * 为对象添加具体的职能。
-> * `ConcreteDecorator`：具体功能类
+* `Component`类：定义对象接口
+  * 给对象动态的添加功能。
+
+* `Decorator`：抽象功能接口，定义添加规范
+  * 扩展`Component`类的功能，`Component`不知道它的存在。
+* `ConreteComponent`：一个具体的对象
+  * 为对象添加具体的职能。
+* `ConcreteDecorator`：具体功能类
 
 
 
