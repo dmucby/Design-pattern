@@ -53,7 +53,7 @@
 
 在手机上，需要时时接受不同APP发送的消息，而这些APP又是不同公司制造的，他们已经制造好了相关的**通知**信息模板，不能再去改变，这时可以通过手机设置选项，来根据用户自定义的去调节。
 
-![71d76332ef1baaaf7c312966966bfad](https://personal-drawing-bed.oss-cn-beijing.aliyuncs.com/img/71d76332ef1baaaf7c312966966bfad.jpg)
+<img src="https://personal-drawing-bed.oss-cn-beijing.aliyuncs.com/img/71d76332ef1baaaf7c312966966bfad.jpg" alt="71d76332ef1baaaf7c312966966bfad" style="zoom:33%;" />
 
 ## Event delegation
 
@@ -64,3 +64,26 @@
 ### Code
 
 具体使用`Java`内置的`Event`组件，此处留坑，待填。 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
